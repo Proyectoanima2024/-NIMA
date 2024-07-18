@@ -382,6 +382,8 @@ p{
     }
     .txt-p{
         padding: 0;
+        text-align: left; /* Alinea el texto a la izquierda */
+        word-break: break-word; /* Permite el corte de palabras largas */
     }
     .proyecto-group{
         flex-direction: column;
@@ -395,6 +397,8 @@ p{
     }
     .inicio-content p{
         padding: 0;
+         text-align: left; /* Alinea el texto a la izquierda */
+        word-break: break-word; /* Permite el corte de palabras largas */
     }
     .inicio-group{
         flex-direction: column;
